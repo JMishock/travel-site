@@ -1,7 +1,7 @@
 Travel Site
-A website project from the Udemy course - Git a Web Developer Job: Mastering the Modern Workflow by Brad Schiff
+This is a website project from the Udemy course - Git a Web Developer Job: Mastering the Modern Workflow by Brad Schiff
 
-Live Demo
+Live Demo-
 To view the website in action, please go to https://jmishock.github.io/travel-site/
 
 or
